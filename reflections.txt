@@ -3,7 +3,7 @@ Answer the following questions:
   
 * What new skills have you learned?
   
-A: the syntax "sup,hr" etc.
+A£ºthe syntax "sup,hr" etc.
 
 * What has been easy?
 A: <a> and <p>
